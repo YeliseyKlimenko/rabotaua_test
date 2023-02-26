@@ -1,0 +1,5 @@
+product_id,product_name,category_id,unit_price
+101,Product A,1,100
+102,Product B,2,200
+103,Product C,1,150
+104,Product D,3,300
